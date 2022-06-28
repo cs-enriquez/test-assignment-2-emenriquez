@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "first test",
+      "setup": "",
+      "run": "python3 minitest.py",
+      "input": "",
+      "output": "Hello, world!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 100
+    }
+  ]
+}
